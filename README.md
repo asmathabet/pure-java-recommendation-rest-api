@@ -345,5 +345,5 @@ public class InMemoryVideoRepository implements VideoRepository
 Afin de pouvoir lancer le projet, il suffit d'utiliser les commandes suivantes :
 ```bash
 mvn clean compile assembly:single
-java -jar target/pure-java-rest-api-1.0-SNAPSHOT-jar-with-dependencies.jar
+java -jar target/pure-java-recommendation-rest-api-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
